@@ -31,7 +31,7 @@ const logout = () => {
 <template>
     <div class="container">
       <Head :title="title" />
-        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark text-light">
           <div class="container-fluid">
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <div class="flex">
